@@ -1,5 +1,7 @@
 ## Project: Healthcare Data Breach Analysis (2023–2024)
 
+For my project, I want to investigate whether hacking-related healthcare data breaches typically affect more people than unauthorized access or disclosure incidents in the United States. Cybersecurity is a growing concern nowadays, with frequent news about vulnerabilities, cyberattacks, and data leaks. This topic is personal to me because some of my information was leaked on the dark web, and someone attempted to misuse my identity. This experience encouraged me to learn more about cybersecurity and data privacy. I am also interested in healthcare because hospitals store large amounts of sensitive patient information, making them attractive targets for hackers. I chose 2023–2024 because the data is relatively recent, and most reports from these years are already archived. I collected the data from the U.S. Department of Health and Human Services (HHS) and will use permutation testing and bootstrapping to compare the two breach categories.
+
 ## Project Scaffold Table
 
 | Element | My Plan |
